@@ -22,3 +22,5 @@ Ever Benched: Indicates if an employee has ever been temporarily without assigne
 Experience in Current Domain: The number of years of experience employees have in their current field.
 
 Leave or Not: a target column
+
+## Questions for the Analysis (Ask phase)
