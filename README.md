@@ -33,4 +33,6 @@ The project aims to answer several research questions, such as:
 * What is the gender distribution within the workforce? Assess gender diversity within the company. (Calculate gender ratios, analyze gender-related trends)
 * Are there any patterns in leave-taking behavior among employees?
 
+## Preparing the Data (Prepare Phase)
+
   
