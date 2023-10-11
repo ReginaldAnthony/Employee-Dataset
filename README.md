@@ -25,6 +25,7 @@ Leave or Not: a target column
 
 ## Questions for the Analysis (Ask phase)
 Research Questions
+
 The project aims to answer several research questions, such as:
 
 * What is the distribution of educational qualifications among employees?
