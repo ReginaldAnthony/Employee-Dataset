@@ -36,5 +36,8 @@ The project aims to answer several research questions, such as:
 ## Preparing the Data (Prepare Phase)
 ### Data
 The dataset is an open dataset source from www.Kaggle.com
+#### Importing the dataset
+Succesfully downloaded and Imported the dataset to Microsoft excel then prepared to CLEAN and ORGANIZE the data.
+## Cleaning the dataset (Process Phase)
 
   
