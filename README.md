@@ -24,3 +24,8 @@ Experience in Current Domain: The number of years of experience employees have i
 Leave or Not: a target column
 
 ## Questions for the Analysis (Ask phase)
+Research Questions
+The project aims to answer several research questions, such as:
+
+* What is the distribution of educational qualifications among employees?
+* How does the length of service (Joining Year) vary across different cities?
