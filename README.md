@@ -35,5 +35,6 @@ The project aims to answer several research questions, such as:
 
 ## Preparing the Data (Prepare Phase)
 ### Data
+The dataset is an open dataset source from www.Kaggle.com
 
   
