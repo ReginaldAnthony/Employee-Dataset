@@ -34,5 +34,6 @@ The project aims to answer several research questions, such as:
 * Are there any patterns in leave-taking behavior among employees?
 
 ## Preparing the Data (Prepare Phase)
+### Data
 
   
