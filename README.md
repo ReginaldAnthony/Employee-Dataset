@@ -41,5 +41,6 @@ Succesfully downloaded and Imported the dataset to Microsoft excel then prepared
 ## Cleaning the dataset (Process Phase)
 * During the data analysis process, no duplicates were identified and removed from the dataset, The dataset consists of 9 columns and 4653 unique rows, ensuring data integrity and accuracy.
 
+## Summarizing the dataset (Analyze Phase)
 * Through examination, it was determined that there are currently 4653 employees within the dataset (females: 1875 & males: 2778).
   
