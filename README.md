@@ -45,7 +45,7 @@ Succesfully downloaded and Imported the dataset to Microsoft excel then prepared
 * Through analysis, the workforce composition within the company reflects a greater prevalence of employees with bachelor's degrees, while individuals with Ph.D and Masters qualifications are comparatively fewer in number. This observation underscores the need for a nuanced understanding of the company's educational diversity, emphasizing the importance of leveraging the strengths and capabilities of employees across various educational backgrounds to drive organizational success. Moreover, it encourages a holistic approach to talent management and the recognition of the unique contributions that employees from different educational paths can offer to the company's endeavors.
 
 * The visual analysis of Joining Year data across different cities provides a comprehensive understanding of the variation in employees' length of service. By employing effective data visualization techniques, we can discern and illustrate how employees' Joining Year distributions differ among the various cities represented in the dataset.
-* _ New dashboard employee (lenght of service).pdf
+*![](https://github.com/ReginaldAnthony/Allegheny-County-Employee-Salariy-analysis/blob/master/Rplot.jpeg)
 
 * it was determined that there are currently 4653 employees within the dataset (females: 1875 & males: 2778).
 * A gender-based analysis of benching activity within the company reveals that 179 out of 1,875 female employees (approximately 9.53%) and 299 out of 2,778 male employees (approximately 10.76%) were benched during the observed period, showing males are more active in the company.
