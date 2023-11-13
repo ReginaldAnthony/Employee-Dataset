@@ -58,7 +58,7 @@ Succesfully downloaded and Imported the dataset to Microsoft excel then prepared
 
 
 ![image](https://github.com/ReginaldAnthony/Employee-Dataset/assets/135012645/7af5d021-3905-4770-9481-69c5bc14f2a9)
-* This graphical representation serves to elucidate any discernible patterns or trends in the relationship between these two variables, providing a clear and concise visualization for analytical interpretation. Showing that the Payment Tier and Experience in Current Domain correlates.
+* This graphical representation serves to elucidate any discernible patterns or trends in the relationship between these two variables, providing a clear and concise visualization for analytical interpretation. This professional visualization serves as a comprehensive tool for conveying the relationship and patterns inherent in the respective datasets, fostering a more nuanced understanding of their interdependence.
 
 
 * ![image](https://github.com/ReginaldAnthony/Employee-Dataset/assets/135012645/f42140da-41aa-4ca8-b02e-58980c136d2a)
