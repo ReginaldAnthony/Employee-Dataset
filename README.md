@@ -31,6 +31,7 @@ The project aims to answer several research questions, such as:
 * What is the distribution of educational qualifications among employees?
 * How does the length of service (Joining Year) vary across different cities?
 * What is the gender distribution within the workforce? Assess gender diversity within the company. (Calculate gender ratios, analyze gender-related trends)
+* Is there a correlation between Payment Tier and Experience in Current Domain?
 * Are there any patterns in leave-taking behavior among employees?
 
 ## Preparing the Data (Prepare Phase)
@@ -57,7 +58,7 @@ Succesfully downloaded and Imported the dataset to Microsoft excel then prepared
 
 
 ![image](https://github.com/ReginaldAnthony/Employee-Dataset/assets/135012645/7af5d021-3905-4770-9481-69c5bc14f2a9)
-* A professionally generated scatter plot is employed to visually depict the correlation between Payment Tier and Experience in the Current Domain. This graphical representation serves to elucidate any discernible patterns or trends in the relationship between these two variables, providing a clear and concise visualization for analytical interpretation. Showing taht the payment tier and experience in current domain corrolates.
+* This graphical representation serves to elucidate any discernible patterns or trends in the relationship between these two variables, providing a clear and concise visualization for analytical interpretation. Showing that the Payment Tier and Experience in Current Domain correlates.
 
 
 * ![image](https://github.com/ReginaldAnthony/Employee-Dataset/assets/135012645/f42140da-41aa-4ca8-b02e-58980c136d2a)
@@ -70,5 +71,12 @@ Succesfully downloaded and Imported the dataset to Microsoft excel then prepared
 * The company exhibits a gender distribution where male employees constitute approximately 59.7%, while female employees make up approximately 40.29%. This insight may prompt further investigation into gender diversity initiatives and strategies for fostering an inclusive workplace.
 * Visualizations suggest that the highest concentration of employees with a particular length of service year is around 2017, primarily in the city of New Delhi. This observation may lead to further exploration of recruitment patterns, retention strategies, and organizational growth during that period.
 * It's important to note that these conclusions are based on the limited information provided.
+
+
+
+
+* Thank you very much for your interest in my Case Study!
+* And I would appreciate any comments and recommendations for improvement!
+* Please stay well and bye!
 
   
