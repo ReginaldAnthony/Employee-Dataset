@@ -48,7 +48,7 @@ Succesfully downloaded and Imported the dataset to Microsoft excel then prepared
 * ![image](https://github.com/ReginaldAnthony/Employee-Dataset/assets/135012645/c4970ae2-ceb6-44b3-9a7b-21b898f26b99)
 * The visual representation indicates that the peak year for the length of service across various cities was approximately in 2017, with a notable concentration of employees from the city of New Delhi. This observation, derived from the graphical analysis, underscores a significant cohort of employees joining the organization during that specific timeframe, particularly prevalent in the city of New Delhi.
 
-#* There are currently 4653 employees within the dataset (females: 1875 & males: 2778).
+* There are currently 4653 employees within the dataset (females: 1875 & males: 2778).
 * The gender distribution within the company is as follows: there are 2,778 male employees, constituting approximately 59.7% of the total workforce (4,653 employees), and 1,875 female employees, representing approximately 40.3%. This analysis underscores the gender composition within the organization, providing insights that may inform diversity and inclusion initiatives and workforce planning strategies.
 * ![image](https://github.com/ReginaldAnthony/Employee-Dataset/assets/135012645/6ce68bfd-b3a7-43cd-a652-c1dd27568fac)
 *
