@@ -49,6 +49,8 @@ Succesfully downloaded and Imported the dataset to Microsoft excel then prepared
 
 
 
-* it was determined that there are currently 4653 employees within the dataset (females: 1875 & males: 2778).
+
+* There are currently 4653 employees within the dataset (females: 1875 & males: 2778).
+* 
 * A gender-based analysis of benching activity within the company reveals that 179 out of 1,875 female employees (approximately 9.53%) and 299 out of 2,778 male employees (approximately 10.76%) were benched during the observed period, showing males are more active in the company.
   
