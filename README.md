@@ -51,7 +51,7 @@ Succesfully downloaded and Imported the dataset to Microsoft excel then prepared
 
 
 * There are currently 4653 employees within the dataset (females: 1875 & males: 2778).
-* The gender distribution within the company is as follows: there are 2,778 male employees, constituting approximately 59.7% of the total workforce (4,653 employees), and 1,875 female employees, representing approximately 40.29%. This analysis underscores the gender composition within the organization, providing insights that may inform diversity and inclusion initiatives and workforce planning strategies.
+* The gender distribution within the company is as follows: there are 2,778 male employees, constituting approximately 59.7% of the total workforce (4,653 employees), and 1,875 female employees, representing approximately 40.3%. This analysis underscores the gender composition within the organization, providing insights that may inform diversity and inclusion initiatives and workforce planning strategies.
 * ![image](https://github.com/ReginaldAnthony/Employee-Dataset/assets/135012645/6ce68bfd-b3a7-43cd-a652-c1dd27568fac)
 *
 
