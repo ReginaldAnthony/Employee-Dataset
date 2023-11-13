@@ -46,6 +46,12 @@ Succesfully downloaded and Imported the dataset to Microsoft excel then prepared
 
 * The visual analysis of Joining Year data across different cities provides a comprehensive understanding of the variation in employees' length of service. By employing effective data visualization techniques, we can discern and illustrate how employees' Joining Year distributions differ among the various cities represented in the dataset.
 * ![image](https://github.com/ReginaldAnthony/Employee-Dataset/assets/135012645/c4970ae2-ceb6-44b3-9a7b-21b898f26b99)
+* The visual representation indicates that the peak year for the length of service across various cities was approximately in 2017, with a notable concentration of employees from the city of New Delhi. This observation, derived from the graphical analysis, underscores a significant cohort of employees joining the organization during that specific timeframe, particularly prevalent in the city of New Delhi.
+
+
+
+
+
 
 
 
