@@ -45,7 +45,8 @@ Succesfully downloaded and Imported the dataset to Microsoft excel then prepared
 * Through analysis, the workforce composition within the company reflects a greater prevalence of employees with bachelor's degrees, while individuals with Ph.D and Masters qualifications are comparatively fewer in number. This observation underscores the need for a nuanced understanding of the company's educational diversity, emphasizing the importance of leveraging the strengths and capabilities of employees across various educational backgrounds to drive organizational success. Moreover, it encourages a holistic approach to talent management and the recognition of the unique contributions that employees from different educational paths can offer to the company's endeavors.
 
 * The visual analysis of Joining Year data across different cities provides a comprehensive understanding of the variation in employees' length of service. By employing effective data visualization techniques, we can discern and illustrate how employees' Joining Year distributions differ among the various cities represented in the dataset.
-* ![image](https://github.com/ReginaldAnthony/Employee-Dataset/assets/135012645/8971d1e5-84d8-4f10-a405-dac3e88e1d5b)
+* ![image](https://github.com/ReginaldAnthony/Employee-Dataset/assets/135012645/c4970ae2-ceb6-44b3-9a7b-21b898f26b99)
+
 
 
 * it was determined that there are currently 4653 employees within the dataset (females: 1875 & males: 2778).
