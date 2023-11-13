@@ -56,6 +56,10 @@ Succesfully downloaded and Imported the dataset to Microsoft excel then prepared
 * A gender-based analysis of benching activity within the company reveals that 179 out of 1,875 female employees (approximately 9.53%) and 299 out of 2,778 male employees (approximately 10.76%) were benched during the observed period, The data suggests that benching activity is slightly higher among male employees, While this difference is relatively small, it may warrant further analysis to understand the factors contributing to the observed variation.
 
 
+![image](https://github.com/ReginaldAnthony/Employee-Dataset/assets/135012645/7af5d021-3905-4770-9481-69c5bc14f2a9)
+* A professionally generated scatter plot is employed to visually depict the correlation between Payment Tier and Experience in the Current Domain. This graphical representation serves to elucidate any discernible patterns or trends in the relationship between these two variables, providing a clear and concise visualization for analytical interpretation. Showing taht the payment tier and experience in current domain corrolates.
+
+
 * ![image](https://github.com/ReginaldAnthony/Employee-Dataset/assets/135012645/f42140da-41aa-4ca8-b02e-58980c136d2a)
 * The analysis of leave-taking behavior within the company reveals that out of a total of 4,653 employees, 1,600 employees have taken leave, constituting approximately 34% of the workforce. Concurrently, 3,053 employees, or approximately 66%, have not taken leave during the observed period. This proportional breakdown provides valuable insights into the distribution of leave-taking behavior among employees, which can inform workforce management strategies and initiatives.
 
