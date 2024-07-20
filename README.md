@@ -2,7 +2,7 @@
 
 ## Project Overview
 This dataset contains information about employees in a company, including their educational backgrounds, work history, demographics, and employment-related factors. It has been anonymized to protect privacy while still providing valuable insights into the workforce.
-The goal of this project is to analyze the employee dataset, this data can provide valuable insights for HR decision-making and workforce optimization.The dataset includes information;
+The goal of this project is to analyze the employee dataset for their efficiency, this data can provide valuable insights for HR decision-making and workforce optimization. The dataset includes information;
 
 
 Education: The educational qualifications of employees, including degree, institution, and field of study.
