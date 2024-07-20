@@ -65,7 +65,7 @@ Succesfully downloaded and Imported the dataset to Microsoft excel then prepared
 * The analysis of leave-taking behavior within the company reveals that out of a total of 4,653 employees, 1,600 employees have taken leave, constituting approximately 34% of the workforce. Concurrently, 3,053 employees, or approximately 66%, have not taken leave during the observed period. This proportional breakdown provides valuable insights into the distribution of leave-taking behavior among employees, which can inform workforce management strategies and initiatives.
 
 
-## Conclusions & Recommandations
+## Conclusions & Recommendations
 * In conclusion, The dataset indicates a prevalence of employees with Bachelor's degrees and fewer employees with Ph.D and Masters qualifications. This insight could prompt considerations for talent development programs and strategies to leverage the diverse educational backgrounds of the workforce.
 * The dataset reflects a diverse educational background among employees, showcasing a mix of degrees, institutions, and fields of study. Recognizing and leveraging this diversity can contribute to a more dynamic and adaptable workforce.
 * The company exhibits a gender distribution where male employees constitute approximately 59.7%, while female employees make up approximately 40.29%. This insight may prompt further investigation into gender diversity initiatives and strategies for fostering an inclusive workplace.
